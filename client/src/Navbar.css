@@ -1,0 +1,14 @@
+.navbar {
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+
+li {
+    display: inline-block;
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 15%;
+}
